@@ -17,7 +17,7 @@
 class AesCrypt {
 
 	/**
-	 * Encrypt array using AES-256bit Rijndael, URL-safe
+	 * Encrypt array
 	 * 
 	 * @param array $data Array to encrypt
 	 * @return string|mixed
@@ -31,7 +31,7 @@ class AesCrypt {
 	}
 
 	/**
-	 * Decrypt using AES-256bit Rijndael
+	 * Decrypt array from string
 	 * 
 	 * @param string $data String to decrypt
 	 * @return array|mixed
@@ -45,7 +45,7 @@ class AesCrypt {
 	}
 
 	/**
-	 * Encrypt using AES-256bit Rijndael, URL-safe
+	 * Encrypt string
 	 *
 	 * @param string $data String to encrypt
 	 * @return string|mixed
@@ -58,7 +58,7 @@ class AesCrypt {
 	}
 
 	/**
-	 * Decrypt string using AES-256bit Rijndael
+	 * Decrypt string from string
 	 *
 	 * @param $data string
 	 * @return string|mixed

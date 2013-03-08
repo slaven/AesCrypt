@@ -3,7 +3,7 @@ AesCrypt Plugin
 
 Advanced Encryption Standard (AES) plugin for CakePHP - URL friendly
 
-## Instalation ##
+## Installation ##
 
 #### git clone ###
 ```
