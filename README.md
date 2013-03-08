@@ -1,16 +1,21 @@
 AesCrypt Plugin
 ===============
 
-Advanced Encryption Standard (AES) plugin for CakePHP
+Advanced Encryption Standard (AES) plugin for CakePHP - URL friendly
 
 ## Instalation ##
 
-#### bootstrap.php ###
+#### git clone ###
+```
+git clone https://github.com/slaven/AesCrypt.git app/Plugin/AesCrypt
+```
+
+#### Add to bootstrap.php ###
 ```
 CakePlugin::load('AesCrypt');
 ```
 
-#### AppController.php ####
+#### Add to AppController.php ####
 ```
 App::uses('AesCrypt', 'AesCrypt.Lib');
 ```
