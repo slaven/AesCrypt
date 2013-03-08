@@ -6,7 +6,7 @@
  *
  * CakePHP adaptation
  * @author Slaven V. <svladisa+git@gmail.com>
- * @link https://github.com/slaven/aes_crypt
+ * @link https://github.com/slaven/AesCrypt
  *
  * PHP Aes implementation (original author)
  * @author Chris Veness <ku.oc.epyt-elbavom@cne-stpircs>
